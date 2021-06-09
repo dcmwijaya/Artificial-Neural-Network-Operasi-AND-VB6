@@ -112,11 +112,11 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub KLR_Click(Index As Integer)
-    MsgBox "Yakin ingin keluar ?", vbQuestion + vbOKCancel, "JST-And Alert"
-    JSTand.Hide
-    Beranda.Hide
-    Unload Me
-    End
+    Q = MsgBox("Anda yakin akan keluar ?", vbQuestion + vbOKCancel, "System")
+    If Q = vbOK Then
+        Unload Me
+        End
+    End If
 End Sub
 
 Private Sub Run_Click(Index As Integer)
