@@ -6,10 +6,12 @@
 # Artificial-Neural-Network-Operasi-AND-VB6
 Final Project of Pattern Recognition Course - Artificial Neural Networks
 
+<br>
+
 ## Features / Framework / Tools
 | Part | Description |
 | --- | --- |
-| Features | Computation |
+| Features | Computation, Validation |
 | Tools | Visual Basic 6.0 Enterprise |
 
 <br>
@@ -32,38 +34,20 @@ https://bit.ly/Installer_VB6
 ## Highlights
 <table>
 <tr>
-<th width="280"></th>
-<th width="280"></th>
-<th width="280"></th>
+<th width="840">Home</th>
 </tr>
 <tr>
-<td><img src="" alt=""></td>
-<td><img src="" alt=""></td>
-<td><img src="" alt=""></td>
+<td><img src="https://github.com/devancakra/Artificial-Neural-Network-Operasi-AND-VB6/assets/54527592/23301e87-4d23-45b8-8626-4d96b69d6509" alt="home"></td>
 </tr>
 </table>
 <table>
 <tr>
-<th width="280"></th>
-<th width="280"></th>
-<th width="280"></th>
+<th width="420">Artificial Neural Network</th>
+<th width="420">Validation</th>
 </tr>
 <tr>
-<td><img src="" alt=""></td>
-<td><img src="" alt=""></td>
-<td><img src="" alt=""></td>
-</tr>
-</table>
-<table>
-<tr>
-<th width="280"></th>
-<th width="280"></th>
-<th width="280"></th>
-</tr>
-<tr>
-<td><img src="" alt=""></td>
-<td><img src="" alt=""></td>
-<td><img src="" alt=""></td>
+<td><img src="https://github.com/devancakra/Artificial-Neural-Network-Operasi-AND-VB6/assets/54527592/4333adee-c6ff-4ab0-8d63-c0f16de86872" alt="ann"></td>
+<td><img src="https://github.com/devancakra/Artificial-Neural-Network-Operasi-AND-VB6/assets/54527592/290afb7f-0aae-40b6-8d1d-8a07e1dab0a3" alt="validation"></td>
 </tr>
 </table>
 
