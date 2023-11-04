@@ -4,7 +4,8 @@
 ![VBA](https://img.shields.io/badge/visual-basic6-blue.svg?&style=flat&logo=VB6&logoColor=%23F7DF1E)
 
 # Artificial-Neural-Network-Operasi-AND-VB6
-Tugas Akhir Mata Kuliah Pengenalan Pola - Jaringan Syaraf Tiruan
+<strong>Tugas Akhir Mata Kuliah Pengenalan Pola</strong><br>
+Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 
 <br>
 
@@ -26,7 +27,7 @@ https://bit.ly/Installer_VB6
 ## Menjalankan
 1.Unduh repositori ini.<br>
 2.Ekstrak file.<br>
-3.Klik "APLIKASI JST-AND.exe" untuk menjalankan program aplikasi.<br>
+3.Klik ``` APLIKASI JST-AND.exe ``` untuk menjalankan program aplikasi.<br>
 4.Selamat menikmati [Selesai].
 
 <br>
