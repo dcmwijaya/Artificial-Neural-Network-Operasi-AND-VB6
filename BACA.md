@@ -25,10 +25,10 @@ https://bit.ly/Installer_VB6
 <br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file.<br>
-3.Klik ``` APLIKASI JST-AND.exe ``` untuk menjalankan program aplikasi.<br>
-4.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br>
+2. Ekstrak file.<br>
+3. Klik ``` APLIKASI JST-AND.exe ``` untuk menjalankan program aplikasi.<br>
+4. Selamat menikmati [Selesai].
 
 <br>
 
