@@ -4,7 +4,8 @@
 ![VBA](https://img.shields.io/badge/visual-basic6-blue.svg?&style=flat&logo=VB6&logoColor=%23F7DF1E)
 
 # Artificial-Neural-Network-Operasi-AND-VB6
-Final Project of Pattern Recognition Course - Artificial Neural Networks
+<strong>Final Project of Pattern Recognition Course</strong><br>
+Artificial Neural Network Based on Visual Basic 6.
 
 <br>
 
@@ -26,7 +27,7 @@ https://bit.ly/Installer_VB6
 ## Running
 1.Download this repository.<br>
 2.Extract the file.<br>
-3.Click "APLIKASI JST-AND.exe" to run the application program.<br>
+3.Click ``` APLIKASI JST-AND.exe ``` to run the application program.<br>
 4.Please enjoy [Done].
 
 <br>
