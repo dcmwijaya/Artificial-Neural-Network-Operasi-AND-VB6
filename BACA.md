@@ -14,6 +14,7 @@ Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 | --- | --- |
 | Fitur | Komputasi, Validasi |
 | Peralatan | Visual Basic 6.0 Enterprise |
+| Sistem Operasi | Windows 10 |
 
 <br>
 
