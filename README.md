@@ -4,7 +4,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Artificial-Neural-Network-Operasi-AND-VB6
-<strong>Final Project of Pattern Recognition Class</strong><br>
+<strong>Pattern Recognition Final Project</strong><br>
 Artificial Neural Network Based on Visual Basic 6.
 
 <br>
