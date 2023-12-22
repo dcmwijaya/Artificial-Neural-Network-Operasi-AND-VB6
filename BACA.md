@@ -4,7 +4,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Artificial-Neural-Network-Operasi-AND-VB6
-<strong>Tugas Akhir Mata Kuliah Pengenalan Pola</strong><br>
+<strong>Tugas Akhir Pengenalan Pola</strong><br>
 Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 
 <br>
