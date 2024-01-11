@@ -9,7 +9,7 @@ Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Komputasi, Validasi |
