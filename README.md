@@ -9,7 +9,7 @@ Artificial Neural Network Based on Visual Basic 6.
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Computation, Validation |
