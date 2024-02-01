@@ -56,7 +56,7 @@ https://bit.ly/Installer_MS_VB6
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta (c) 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
