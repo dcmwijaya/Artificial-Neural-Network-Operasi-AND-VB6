@@ -25,7 +25,7 @@ Artificial Neural Network Based on Visual Basic 6.
 https://bit.ly/Installer_MS_VB6
 ```
 
-</td></tr></table><br>
+</td></tr></table>
 
 <br><br>
 
