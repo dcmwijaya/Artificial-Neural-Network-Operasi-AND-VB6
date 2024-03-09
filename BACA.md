@@ -7,7 +7,7 @@
 <strong>Tugas Akhir Pengenalan Pola</strong><br>
 Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 
-<br>
+<br><br>
 
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
@@ -16,14 +16,18 @@ Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 | Peralatan | Visual Basic 6.0 Enterprise |
 | Sistem Operasi | Windows 10 |
 
-<br>
+<br><br>
 
 ## Unduh & Instal Visual Basic 6.0 Enterprise
-```bash
+<table><tr><td width="840">
+
+```
 https://bit.ly/Installer_MS_VB6
 ```
 
-<br>
+</td></tr></table>
+
+<br><br>
 
 ## Memulai
 1. Unduh repositori ini.<br>
@@ -31,7 +35,7 @@ https://bit.ly/Installer_MS_VB6
 3. Klik ``` APLIKASI JST-AND.exe ``` untuk menjalankan program aplikasi.<br>
 4. Selamat menikmati [Selesai].
 
-<br>
+<br><br>
 
 ## Sorotan
 <table>
@@ -53,7 +57,12 @@ https://bit.ly/Installer_MS_VB6
 </tr>
 </table>
 
-<br>
+<br><br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
