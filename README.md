@@ -7,7 +7,7 @@
 <strong>Pattern Recognition Final Project</strong><br>
 Artificial Neural Network Based on Visual Basic 6.
 
-<br>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -16,14 +16,18 @@ Artificial Neural Network Based on Visual Basic 6.
 | Tools | Visual Basic 6.0 Enterprise |
 | Operation System | Windows 10 |
 
-<br>
+<br><br>
 
 ## Download & Install Visual Basic 6.0 Enterprise
-```bash
+<table><tr><td width="840">
+
+```
 https://bit.ly/Installer_MS_VB6
 ```
 
-<br>
+</td></tr></table><br>
+
+<br><br>
 
 ## Get Started
 1. Download this repository.<br>
@@ -31,7 +35,7 @@ https://bit.ly/Installer_MS_VB6
 3. Click ``` APLIKASI JST-AND.exe ``` to run the application program.<br>
 4. Please enjoy [Done].
 
-<br>
+<br><br>
 
 ## Highlights
 <table>
@@ -53,7 +57,12 @@ https://bit.ly/Installer_MS_VB6
 </tr>
 </table>
 
-<br>
+<br><br>
+
+## Appreciation
+If you find this work useful, please support this work as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2020 - Devan Cakra Mudra Wijaya
