@@ -1,97 +1,114 @@
 VERSION 5.00
 Begin VB.Form Beranda 
    BackColor       =   &H00FFFF80&
+   BorderStyle     =   3  'Fixed Dialog
    Caption         =   "APLIKASI JST-AND"
-   ClientHeight    =   6420
-   ClientLeft      =   225
-   ClientTop       =   570
-   ClientWidth     =   9720
+   ClientHeight    =   6570
+   ClientLeft      =   150
+   ClientTop       =   495
+   ClientWidth     =   9420
+   BeginProperty Font 
+      Name            =   "Curlz MT"
+      Size            =   8.25
+      Charset         =   0
+      Weight          =   700
+      Underline       =   0   'False
+      Italic          =   0   'False
+      Strikethrough   =   0   'False
+   EndProperty
    Icon            =   "Beranda.frx":0000
    LinkTopic       =   "Beranda"
+   MaxButton       =   0   'False
+   MinButton       =   0   'False
    Picture         =   "Beranda.frx":0A72
-   ScaleHeight     =   6420
+   ScaleHeight     =   12306.77
    ScaleMode       =   0  'User
-   ScaleWidth      =   9720
-   StartUpPosition =   1  'CenterOwner
-   Begin VB.Label Label3 
-      Alignment       =   1  'Right Justify
+   ScaleWidth      =   9420
+   ShowInTaskbar   =   0   'False
+   StartUpPosition =   2  'CenterScreen
+   Begin VB.Label Label4 
+      Alignment       =   2  'Center
       BackColor       =   &H00FFFFFF&
       BackStyle       =   0  'Transparent
       Caption         =   "Created at 2021 | FP PENGENALAN POLA-C"
       BeginProperty Font 
-         Name            =   "Anklepants"
-         Size            =   9.75
+         Name            =   "Palatino Linotype"
+         Size            =   12
          Charset         =   0
-         Weight          =   400
+         Weight          =   700
          Underline       =   0   'False
          Italic          =   0   'False
          Strikethrough   =   0   'False
       EndProperty
       Height          =   855
-      Left            =   2280
+      Index           =   4
+      Left            =   840
       TabIndex        =   3
-      Top             =   5880
-      Width           =   5055
-   End
-   Begin VB.Label Label2 
-      Alignment       =   1  'Right Justify
-      BackColor       =   &H00FFFFFF&
-      BackStyle       =   0  'Transparent
-      Caption         =   "Devan Cakra M.W - 18081010013"
-      BeginProperty Font 
-         Name            =   "Anklepants"
-         Size            =   9.75
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   735
-      Left            =   1200
-      TabIndex        =   2
-      Top             =   3480
-      Width           =   5655
-   End
-   Begin VB.Label Label1 
-      Alignment       =   1  'Right Justify
-      BackColor       =   &H00FFFFFF&
-      BackStyle       =   0  'Transparent
-      Caption         =   "MK POLA (JST - AND)"
-      BeginProperty Font 
-         Name            =   "Anagram NF"
-         Size            =   26.25
-         Charset         =   0
-         Weight          =   400
-         Underline       =   0   'False
-         Italic          =   0   'False
-         Strikethrough   =   0   'False
-      EndProperty
-      Height          =   735
-      Left            =   1920
-      TabIndex        =   1
-      Top             =   2640
-      Width           =   5655
+      Top             =   5400
+      Width           =   8055
    End
    Begin VB.Label Label4 
-      Alignment       =   1  'Right Justify
+      Alignment       =   2  'Center
       BackColor       =   &H00FFFFFF&
       BackStyle       =   0  'Transparent
-      Caption         =   "APLIKASI FINAL PROJECT"
+      Caption         =   "Devan Cakra M. W (18081010013)"
       BeginProperty Font 
-         Name            =   "Anagram NF"
-         Size            =   26.25
+         Name            =   "Palatino Linotype"
+         Size            =   14.25
          Charset         =   0
-         Weight          =   400
+         Weight          =   700
          Underline       =   0   'False
          Italic          =   0   'False
          Strikethrough   =   0   'False
       EndProperty
-      Height          =   615
-      Left            =   1680
-      TabIndex        =   0
+      Height          =   855
+      Index           =   2
+      Left            =   840
+      TabIndex        =   2
+      Top             =   3000
+      Width           =   8055
+   End
+   Begin VB.Label Label4 
+      Alignment       =   2  'Center
+      BackColor       =   &H00FFFFFF&
+      BackStyle       =   0  'Transparent
+      Caption         =   "MK    POLA    (JST    -    AND)"
+      BeginProperty Font 
+         Name            =   "Poplar Std"
+         Size            =   32.25
+         Charset         =   0
+         Weight          =   700
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Height          =   855
+      Index           =   1
+      Left            =   840
+      TabIndex        =   1
       Top             =   2040
-      Width           =   6255
+      Width           =   8055
+   End
+   Begin VB.Label Label4 
+      Alignment       =   2  'Center
+      BackColor       =   &H00FFFFFF&
+      BackStyle       =   0  'Transparent
+      Caption         =   "APLIKASI     FINAL    PROJECT"
+      BeginProperty Font 
+         Name            =   "Poplar Std"
+         Size            =   32.25
+         Charset         =   0
+         Weight          =   700
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Height          =   855
+      Index           =   0
+      Left            =   720
+      TabIndex        =   0
+      Top             =   1320
+      Width           =   8055
    End
    Begin VB.Menu fl 
       Caption         =   "File"
@@ -117,6 +134,10 @@ Private Sub KLR_Click(Index As Integer)
         Unload Me
         End
     End If
+End Sub
+
+Private Sub Label1_Click()
+
 End Sub
 
 Private Sub Run_Click(Index As Integer)

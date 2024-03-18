@@ -1,23 +1,27 @@
 VERSION 5.00
 Begin VB.Form JSTand 
    BackColor       =   &H00FFFFC0&
+   BorderStyle     =   3  'Fixed Dialog
    Caption         =   "APLIKASI JST-AND"
    ClientHeight    =   6420
-   ClientLeft      =   225
-   ClientTop       =   570
+   ClientLeft      =   150
+   ClientTop       =   495
    ClientWidth     =   9420
    Icon            =   "JSTand.frx":0000
    LinkTopic       =   "Form1"
+   MaxButton       =   0   'False
+   MinButton       =   0   'False
    Picture         =   "JSTand.frx":0A72
    ScaleHeight     =   6420
    ScaleMode       =   0  'User
    ScaleWidth      =   12306.77
-   StartUpPosition =   1  'CenterOwner
+   ShowInTaskbar   =   0   'False
+   StartUpPosition =   2  'CenterScreen
    Begin VB.CommandButton Command2 
       BackColor       =   &H008080FF&
       Caption         =   "Clear"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   9.75
          Charset         =   0
          Weight          =   700
@@ -37,7 +41,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00C0FFC0&
       Caption         =   "Submit"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   13.5
          Charset         =   0
          Weight          =   700
@@ -88,7 +92,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "UPDATED WEIGHT"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -201,7 +205,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "W0"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -220,7 +224,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "W1"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -238,7 +242,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "W2"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -257,7 +261,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "ERROR"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -307,7 +311,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "OUTPUT"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -357,7 +361,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "HASIL"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -407,7 +411,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "THRESHOLD"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -432,7 +436,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "T"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -451,7 +455,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "INITIAL WEIGHT"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -492,7 +496,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "W2"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -510,7 +514,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "W1"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -528,7 +532,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "W0"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -547,7 +551,7 @@ Begin VB.Form JSTand
       BackColor       =   &H00FFFF80&
       Caption         =   "OPERASI AND"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -692,7 +696,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "Y"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -710,7 +714,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "X2"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -728,7 +732,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "X1"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -746,7 +750,7 @@ Begin VB.Form JSTand
          BackStyle       =   0  'Transparent
          Caption         =   "X0"
          BeginProperty Font 
-            Name            =   "MS Sans Serif"
+            Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
             Weight          =   700
@@ -767,7 +771,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "Threshold"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -785,7 +789,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "W2"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -803,7 +807,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "W1"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -821,7 +825,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "W0"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -840,7 +844,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "X2"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -859,7 +863,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "X1"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -878,7 +882,7 @@ Begin VB.Form JSTand
       BackStyle       =   0  'Transparent
       Caption         =   "X0"
       BeginProperty Font 
-         Name            =   "MS Sans Serif"
+         Name            =   "Arial"
          Size            =   8.25
          Charset         =   0
          Weight          =   700
@@ -902,10 +906,6 @@ Begin VB.Form JSTand
    Begin VB.Menu fl 
       Caption         =   "File"
       Index           =   0
-      Begin VB.Menu brd 
-         Caption         =   "Beranda"
-         Index           =   0
-      End
       Begin VB.Menu KLR 
          Caption         =   "Keluar"
          Index           =   0
@@ -917,15 +917,6 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
-'################# Beranda #################'
-Private Sub brd_Click(Index As Integer)
-    Beranda.Show
-    JSTand.Hide
-    Unload Me
-End Sub
-
-
-
 '####################### Keluar #######################'
 Private Sub KLR_Click(Index As Integer)
     Q = MsgBox("Anda yakin akan keluar ?", vbQuestion + vbOKCancel, "System")
