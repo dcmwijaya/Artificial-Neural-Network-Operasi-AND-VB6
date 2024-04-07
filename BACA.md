@@ -22,7 +22,7 @@ Jaringan Syaraf Tiruan Berbasis Visual Basic 6
 <table><tr><td width="840">
 
 ```
-https://bit.ly/Installer_MS_VB6
+https://bit.ly/VisualBasic6_Installer
 ```
 
 </td></tr></table>
